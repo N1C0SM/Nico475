@@ -1,6 +1,5 @@
 # Nicolás San Marcos Remesal
-
-<img src="![Cabecero de github](https://github.com/Nico475/Nico475/assets/83534863/29202e72-ac65-475e-a0dc-6a8b433d1be6)" alt="Profile views" align='right'/> <a href="https://github.com/Nico475"> </a>
+![Cabecero de github](https://github.com/Nico475/Nico475/assets/83534863/29202e72-ac65-475e-a0dc-6a8b433d1be6)
 
 
 - 👋 Hi, I’m @nico475
