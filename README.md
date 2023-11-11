@@ -8,10 +8,10 @@ Web developer
 
 - 🌍  I'm based in Spain
 - 👀 I’m interested in web-dev🤖, mountain sports🏔, and many types of sports🏈.
-<!--- 🖥️  See my portfolio at [My portfolio](http://myportfolio)--->
 - ✉️  You can contact me at [nicolassanmarcos4@gmail.com](mailto:nicolassanmarcos4@gmail.com)
 - 🧠  I'm learning for FRONTEND programming
 <!-- 🚀  I'm currently working on [MyApp](http://MyApp.com)
+- 🖥️  See my portfolio at [My portfolio](http://myportfolio)
 - 🤝  I'm open to collaborating on Interesting proyects--->
 
 
