@@ -1,13 +1,34 @@
-![Cabecero de github](https://github.com/Nico475/Nico475/assets/83534863/29202e72-ac65-475e-a0dc-6a8b433d1be6)
+# Nicolás San Marcos Remesal
 
-<!--*
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<img src="![Cabecero de github](https://github.com/Nico475/Nico475/assets/83534863/29202e72-ac65-475e-a0dc-6a8b433d1be6)" alt="Profile views" align='right'/> <a href="https://github.com/Nico475"> </a>
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👋 Hi, I’m @nico475
+- 👀 I’m interested in web-dev🤖, mountain sports🏔, and many types of sports🏈.
+- 🔧 I'm currently studying on teaching web development✌🏻.
+
+## Subjets I'm coursing
+
+**1. First grade:**
+  - LLMM: Lenguajes de marcas y sistemas de gestión de la información
+ - BBDD: Bases de datos
+ - Prog: Programación
+  - SI: Sistemas informaticos
+  LEUP:Lengua extranjera para uso profesional(ENGLISH.)
+  - EED: Entornos de desarrollo
+
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+</span>
+<span width="45%">
+ 
+  
+### Backend & Programming
+ 
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+</span>
